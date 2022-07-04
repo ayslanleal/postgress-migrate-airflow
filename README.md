@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ayslanleal/dagsheets.git
+$ git clone https://github.com/ayslanleal/postgress-migrate-airflow.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ docker compose up
